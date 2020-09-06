@@ -1,0 +1,1 @@
+hello world on text file A.
